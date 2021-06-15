@@ -41,7 +41,7 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
+          <!-- <p class="post-meta">Posted by
             {% if post.author %}
             {{ post.author }}
             {% else %}
@@ -49,7 +49,7 @@ layout: default
             {% endif %}
             on
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-          </p>
+          </p> -->
         </article>
 
         <hr>
@@ -58,7 +58,7 @@ layout: default
 
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Projects &rarr;</a>
         </div>
 
       </div>
