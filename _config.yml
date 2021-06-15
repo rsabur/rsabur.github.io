@@ -1,0 +1,27 @@
+title:              Radiyah Sabur
+email:              rsabur58@gmail.com
+description:        "Full Stack Software Engineer with a passion for fasion and travel. 
+Who's curiosity has taken a driver seat to creating, learning and exploring the world 
+of software developement."
+author:             Radiyah Sabur
+# baseurl:            "https://radiyahsabur.com"
+url:                "https://radiyahsabur.com"
+
+# Social Profiles
+twitter_username:   radiyahsabur
+github_username:    rsabur
+# facebook_username:  
+instagram_username: radiyahsabur 
+linkedin_username: radiyahsabur
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
