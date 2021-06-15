@@ -8,11 +8,11 @@ author:             Radiyah Sabur
 url:                "https://radiyahsabur.com"
 
 # Social Profiles
-twitter_username:   radiyahsabur
-github_username:    rsabur
-# facebook_username:  
-instagram_username: radiyahsabur 
 linkedin_username: radiyahsabur
+github_username:    rsabur
+instagram_username: radiyahsabur 
+twitter_username:   radiyahsabur
+# facebook_username:  
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
