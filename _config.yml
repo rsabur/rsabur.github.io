@@ -1,10 +1,7 @@
 title:              Radiyah Sabur
 email:              rsabur58@gmail.com
-description:        "Full-stack software engineer experienced in Ruby, JavaScript, Java and Python based languages with a passion for fashion and travel
-____________________________________________________________________
+description:        "Full-stack software engineer experienced in Ruby, JavaScript, Java and Python based languages with a passion for fashion and travel"
 
-
-React.js | React-Native | Node.js | Express.js | Rails | TypeScript | HTML/CSS | Git"
 
 author:             Radiyah Sabur
 # baseurl:            "https://radiyahsabur.com"
@@ -14,7 +11,7 @@ url:                "https://radiyahsabur.com"
 linkedin_username: radiyahsabur
 github_username:    rsabur
 instagram_username: radiyahsabur 
-twitter_username:   radiyahsabur
+# twitter_username:   radiyahsabur
 # facebook_username:  
 
 # Add your google-analytics ID here to activate google analytics
